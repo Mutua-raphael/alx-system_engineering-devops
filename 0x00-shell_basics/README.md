@@ -1,2 +1,1 @@
-#!/bin/bash
-README.md file showing shell basic commands
+A script that prints the absolute path name of the current working directory
